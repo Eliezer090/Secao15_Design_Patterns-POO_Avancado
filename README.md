@@ -4,6 +4,10 @@ Extrutura do projeto:<br>
  - Src: Pasta geral, dentro dela se encontra separado por pastas cada padrão mencionado abaixo.<br>
 <img src="https://img-c.udemycdn.com/course/240x135/2411816_3802_4.jpg" width="300" title="Capa do curso">
 
+conflito de breanchs
+na memsa
+linha
+
 # Aulas
 256. Introdução<br>
 257. Padrões de Projeto (Design Patterns) - Parte 1<br>
