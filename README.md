@@ -5,10 +5,7 @@ Extrutura do projeto:<br>
 <img src="https://img-c.udemycdn.com/course/240x135/2411816_3802_4.jpg" width="300" title="Capa do curso">
 
 conflitos
-sim
-conflito de breanchs
-na memsa
-linha
+
 
 # Aulas
 256. Introdução<br>
