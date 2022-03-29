@@ -6,6 +6,9 @@ Extrutura do projeto:<br>
 
 conflitos
 sim
+conflito de breanchs
+na memsa
+linha
 
 # Aulas
 256. Introdução<br>
