@@ -1,5 +1,7 @@
 # Seção 15: Design Patterns (Padrões de projeto - GOF) - POO Avançado
-Curso de Python 3 do Básico Ao Avançado (com projetos reais)<br>
+Nesta parte do curso foi apresentado os padrões de projetos mais utilizados, e que podem ser utilizados em empresas, como pode ser visto abaixo foram varias aulas, onde em cada uma foi realizado a implementação de exemplos para exercitar e ver de fato como o padrão funciona.<br>
+Extrutura do projeto:<br>
+ - Src: Pasta geral, dentro dela se encontra separado por pastas cada padrão mencionado abaixo.<br>
 <img src="https://img-c.udemycdn.com/course/240x135/2411816_3802_4.jpg" width="300" title="Capa do curso">
 
 # Aulas
